@@ -1,0 +1,79 @@
+body {
+    background-color: #a09f9f;
+    font-family: Sans-serif	;
+    outline: none;
+
+    }
+    h1 
+    {
+        text-align: center;
+        color : rgba(49 ,87 ,105, .9);;
+    }
+    form
+    {
+        margin: auto;
+        
+        border-radius: 9px;
+        width: 500px;
+        height: 1000px;
+        color: white;
+        box-sizing: border-box;
+        padding: 10px 65px;
+    }
+    
+    form p
+    {
+        margin: 0;
+        padding: 0;
+        font-family:  'indie flower' ,cursive;
+    
+    }
+    form input
+    {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 18px;
+        padding:15px;
+        border-radius: 9px;
+        border: solid 1px #cccccc;
+        outline: none;
+    
+    }
+    form label
+    {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    button 
+    {
+        width: 100%;
+        color :white ;
+        background-color:rgba(49 ,87 ,105, .9) ;
+        padding : 15px 15px;
+        margin-top: 10px;
+        border-radius : 8px ;
+        border : 1px solid #ccc ;
+        cursor: pointer;
+        text-align: center;
+    }
+    button:hover
+    {
+        background-color: rgb(35,76, 95);
+    }
+    
+    .footer 
+    {   border-radius: 9px;
+        background-color: gray;
+        padding:20px;
+        text-align: center;
+        height: 150px;
+        margin: 30px 20px 0 20px;
+        font-size: 20px;
+        color: white;
+    }
+    .footer span
+    {
+        font-family: 'Pacifico';
+    }
+    
+    
